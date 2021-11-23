@@ -53,4 +53,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarsh-2002&" alt="kutkarsh-2002" /></p>
 <br>
-<span>Deliberate to collab, feel free to fork the repos and be sure to star them!</span>
+**Deliberate to collab, feel free to fork the repos and be sure to star them!**
