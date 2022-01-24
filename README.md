@@ -23,20 +23,20 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uv_4lOTd4NbG6_Q7ZHip97O1dYmj3E6C/view?usp=sharing](https://drive.google.com/file/d/1uv_4lOTd4NbG6_Q7ZHip97O1dYmj3E6C/view?usp=sharing)
 
-- ⚡ Fun fact **I used to write poetry**
+- ⚡ Fun fact **I write poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pandeyutkarsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyutkarsh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kumar-utkarsh-02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-utkarsh-02" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14653669/kumar-utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14653669/kumar-utkarsh" height="30" width="40" /></a>
-<a href="https://fb.com/utkarshpandey350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarshpandey350" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/utkarshpandey350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarshpandey350" height="30" width="40" /></a> -->
 <a href="https://instagram.com/utkarshpandey_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarshpandey_7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kutkarsh123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kutkarsh123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kutkarsh350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kutkarsh350" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kutkarsh123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kutkarsh123" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/kutkarsh123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kutkarsh123" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/utkarsh_1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_1234" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kutkarsh350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kutkarsh350" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerearth.com/@kutkarsh350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kutkarsh350" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/kutkarsh350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kutkarsh350" height="30" width="40" /></a>
 <a href="https://discord.gg/Utkarsh#9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Utkarsh#9021" height="30" width="40" /></a>
 </p>
