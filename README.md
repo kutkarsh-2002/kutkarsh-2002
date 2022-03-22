@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pandeyutkarsh_" target="blank"><img src="https://img.shields.io/twitter/follow/pandeyutkarsh_?logo=twitter&style=for-the-badge" alt="pandeyutkarsh_" /></a> </p>
 
-- 🔭 I’m currently working on [Global Innovation Project](https://github.com/kutkarsh-2002/Global-Innovation_Bharti-Vidyapeeth)
+- 🔭 I’m currently working on Project[Swiggy Delivery Challenge- Avoiding Rejects](https://colab.research.google.com/drive/1SCLFl9Kmo6olxyUs_C0KEa_U3MkybuqK?usp=sharing)
 
-- 🌱 I’m currently learning **Data Analytics with Python**
+<!--- 🌱 I’m currently learning **Data Analytics with Python** -->
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
