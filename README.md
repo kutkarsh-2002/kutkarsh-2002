@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kutkarsh350@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PUyKx1DWtIjPHLpnyTg83ODQRGl1zBaN/view?usp=sharing](https://drive.google.com/file/d/1uv_4lOTd4NbG6_Q7ZHip97O1dYmj3E6C/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PUyKx1DWtIjPHLpnyTg83ODQRGl1zBaN/view?usp=sharing](https://drive.google.com/file/d/1PUyKx1DWtIjPHLpnyTg83ODQRGl1zBaN/view?usp=sharing)
 
 - ⚡ Fun fact **I write poetry**
 
