@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pandeyutkarsh_" target="blank"><img src="https://img.shields.io/twitter/follow/pandeyutkarsh_?logo=twitter&style=for-the-badge" alt="pandeyutkarsh_" /></a> </p>
 
-- 🔭 I’m currently working on Project [Swiggy Delivery Challenge- Avoiding Rejects](https://colab.research.google.com/drive/1SCLFl9Kmo6olxyUs_C0KEa_U3MkybuqK?usp=sharing)
+- 🔭 I’m currently working on Project [Ecommerce Website](#)
 
 <!--- 🌱 I’m currently learning **Data Analytics with Python** -->
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kutkarsh-2002](https://github.com/kutkarsh-2002)
 
-- 💬 Ask me about **React, DSA, Frontend Development, Finance**
+- 💬 Ask me about **DSA, Development, and Management**
 
 - 📫 How to reach me **kutkarsh350@gmail.com**
 
