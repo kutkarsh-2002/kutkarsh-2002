@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kutkarsh-2002](https://github.com/kutkarsh-2002)
 
-- 💬 Ask me about **DSA, Development, and Management**
+- 💬 Ask me about **DSA, Development, and Entrepreneurship**
 
 - 📫 How to reach me **kutkarsh350@gmail.com**
 
