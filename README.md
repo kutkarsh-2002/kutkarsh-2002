@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh!</h1>
-<h3 align="center">I am a well-focused person keen on learning new advances in technology by making apt use of my abilities in the growing fields of innovation. I am an ambitious learner enthusiastically working in the field of programming, web development, and analytics. I am presently pursuing a Bachelor of Technology centered in the domain of Electronics and Communication.</h3>
+<h3 align="center">I am a well-focused person keen on learning new advances in technology by making apt use of my abilities in the growing fields of innovation. I am an ambitious learner enthusiastically working in the field of programming, web development, and Data Science. I am presently pursuing a Bachelor of Technology centered in the domain of Electronics and Communication.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutkarsh-2002&label=Profile%20views&color=0e75b6&style=flat" alt="kutkarsh-2002" /> </p>
 
